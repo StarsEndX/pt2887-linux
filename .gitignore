@@ -1,0 +1,8 @@
+build/
+*.deb
+*.dsc
+*.changes
+*.buildinfo
+.venv/
+__pycache__/
+*.py[cod]
